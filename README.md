@@ -1,13 +1,10 @@
-
-
-# AI Recruiter
-
+# Project Title
 
 # Quickstart/Demo
 
 # Table of Contents
 
-- [Project Title](#project-title)
+- [AI Recruiter](#project-title)
 - [Quickstart/Demo](#quickstartdemo)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
