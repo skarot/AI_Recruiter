@@ -1,10 +1,11 @@
-# Project Title
+# Data Science Project
+# AI Recruiter
 
 # Quickstart/Demo
 
 # Table of Contents
-
-- [AI Recruiter](#project-title)
+- [Data Science Project](#data-science-project)
+- [AI Recruiter](#ai-recruiter)
 - [Quickstart/Demo](#quickstartdemo)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
