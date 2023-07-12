@@ -1,6 +1,34 @@
 # Data Science Project Repo
 This repository is arranged as 3 submodules consisting on Vision, NLP and rule based models.
 
+project_root/
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── external/
+├── notebooks/EDA
+├── src/
+│   ├── preprocessing/
+|   |   ├── data_cleaning/
+|   |   |── data_transformation/
+|   |   |── feature_engineering/
+|   |   └── data_normalization/
+│   ├── modeling/
+|   |   |── model_selection/
+|   |   |── model_training/
+|   |   └── model_tuning/
+│   ├── evaluation/
+│   └── includes/
+|       |── utilities/
+|       └── constants/
+|  
+├── models/
+├── reports/
+├── requirements.txt
+├── config.yaml
+└── README.md
+
+
 # Motivation
 Growing organizations conduct multiple recruitment drives for finding the best candidates for being part of their company. Post pandemic there has been a rise of virtual interviews. During the entire recuitmnent process some of the evaluations and actions taken are rule based eg. experience, expected CTC, notice peroid etc, which can be automated. There are some criteria which are not in the books but can cause a candidate to be rejected or selected for next round eg.Language, fluency, tone, etc. A machine can be trained to analyse such traits and provide a candidate's behavioural insights to the interviewer.  While other evaluations require human in the loop like scenario based questions, use case implementation etc.
 
