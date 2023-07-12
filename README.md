@@ -1,5 +1,7 @@
 # Data Science Project Repo
 This repository is arranged as 3 submodules consisting on Vision, NLP and rule based models.
+The folder structure of the repo is as follows:
+
 ```
 project_root/
 ├── data/
@@ -17,12 +19,15 @@ project_root/
 |   |   |── model_selection/
 |   |   |── model_training/
 |   |   └── model_tuning/
-│   ├── evaluation/
-│   └── includes/
-|       |── utilities/
-|       └── constants/
+│   └── evaluation/
+├── includes/
+|   |── utilities/
+|   └── constants/
 |  
 ├── models/
+|   |── vision/
+|   |── audio/
+|   └── text/
 ├── reports/
 ├── requirements.txt
 ├── config.yaml
@@ -52,6 +57,8 @@ This AI solution can provide visual,linguistic and rule based insights from vide
 - [License](#license)
 
 # Installation
+
+
 [(Back to top)](#table-of-contents)
 
 # Usage
